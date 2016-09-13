@@ -1,0 +1,63 @@
+hejun19215
+HEJUN@2002
+1.mysql的事务，脏读，不可重复读，幻读的测试
+
+
+3.ORCLE数据库持续学习
+	进度:
+
+
+4.算法（第四版）的学习
+	进度:排序（前两种排序完成）
+
+
+
+
+6.git命令总结
+
+
+7.spring 学习 IOC/AOP
+
+
+8.表连接原理
+
+9.jetty的学习
+http://ykgarfield.github.io/jetty-9.2.3.v20140905-zh/index.html
+
+10.oracle 索引
+
+11.物化视图
+
+
+12.try ..catch..
+http://www.blogjava.net/fancydeepin/archive/2016/05/06/382508.html
+
+13.httpServletRequest与httpServletResponse
+http://lavasoft.blog.51cto.com/62575/275586/
+http://blog.csdn.net/driverking/article/details/6703016
+
+
+14.response下载图片
+http://blog.csdn.net/mexican_jacky/article/details/44853073
+
+15.classpath与classpath*的区别
+
+16.httpclient
+
+17. sql 中in existis的区别
+http://nicegege.iteye.com/blog/1133256
+http://blog.sina.com.cn/s/blog_601d1ce30100cyrb.html
+
+
+18.值传递与引用传递
+
+19.ehcache
+http://www.ehcache.org/documentation/3.1/
+
+20.Spring3.2新注解@ControllerAdvice
+http://jinnianshilongnian.iteye.com/blog/1866350
+
+21.springMVC异常处理机制
+http://www.cnblogs.com/fangjian0423/p/springMVC-exception-analysis.html
+
+
