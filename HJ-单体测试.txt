@@ -1,63 +1,63 @@
 hejun19215
 HEJUN@2002
-1.mysqlµÄÊÂÎñ£¬Ôà¶Á£¬²»¿ÉÖØ¸´¶Á£¬»Ã¶ÁµÄ²âÊÔ
+1.mysqlçš„äº‹åŠ¡ï¼Œè„è¯»ï¼Œä¸å¯é‡å¤è¯»ï¼Œå¹»è¯»çš„æµ‹è¯•
 
 
-3.ORCLEÊı¾İ¿â³ÖĞøÑ§Ï°
-	½ø¶È:
+3.ORCLEæ•°æ®åº“æŒç»­å­¦ä¹ 
+	è¿›åº¦:
 
 
-4.Ëã·¨£¨µÚËÄ°æ£©µÄÑ§Ï°
-	½ø¶È:ÅÅĞò£¨Ç°Á½ÖÖÅÅĞòÍê³É£©
+4.ç®—æ³•ï¼ˆç¬¬å››ç‰ˆï¼‰çš„å­¦ä¹ 
+	è¿›åº¦:æ’åºï¼ˆå‰ä¸¤ç§æ’åºå®Œæˆï¼‰
 
 
 
 
-6.gitÃüÁî×Ü½á
+6.gitå‘½ä»¤æ€»ç»“
 
 
-7.spring Ñ§Ï° IOC/AOP
+7.spring å­¦ä¹  IOC/AOP
 
 
-8.±íÁ¬½ÓÔ­Àí
+8.è¡¨è¿æ¥åŸç†
 
-9.jettyµÄÑ§Ï°
+9.jettyçš„å­¦ä¹ 
 http://ykgarfield.github.io/jetty-9.2.3.v20140905-zh/index.html
 
-10.oracle Ë÷Òı
+10.oracle ç´¢å¼•
 
-11.Îï»¯ÊÓÍ¼
+11.ç‰©åŒ–è§†å›¾
 
 
 12.try ..catch..
 http://www.blogjava.net/fancydeepin/archive/2016/05/06/382508.html
 
-13.httpServletRequestÓëhttpServletResponse
+13.httpServletRequestä¸httpServletResponse
 http://lavasoft.blog.51cto.com/62575/275586/
 http://blog.csdn.net/driverking/article/details/6703016
 
 
-14.responseÏÂÔØÍ¼Æ¬
+14.responseä¸‹è½½å›¾ç‰‡
 http://blog.csdn.net/mexican_jacky/article/details/44853073
 
-15.classpathÓëclasspath*µÄÇø±ğ
+15.classpathä¸classpath*çš„åŒºåˆ«
 
 16.httpclient
 
-17. sql ÖĞin existisµÄÇø±ğ
+17. sql ä¸­in existisçš„åŒºåˆ«
 http://nicegege.iteye.com/blog/1133256
 http://blog.sina.com.cn/s/blog_601d1ce30100cyrb.html
 
 
-18.Öµ´«µİÓëÒıÓÃ´«µİ
+18.å€¼ä¼ é€’ä¸å¼•ç”¨ä¼ é€’
 
 19.ehcache
 http://www.ehcache.org/documentation/3.1/
 
-20.Spring3.2ĞÂ×¢½â@ControllerAdvice
+20.Spring3.2æ–°æ³¨è§£@ControllerAdvice
 http://jinnianshilongnian.iteye.com/blog/1866350
 
-21.springMVCÒì³£´¦Àí»úÖÆ
+21.springMVCå¼‚å¸¸å¤„ç†æœºåˆ¶
 http://www.cnblogs.com/fangjian0423/p/springMVC-exception-analysis.html
 
-
+22
