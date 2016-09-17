@@ -1,5 +1,10 @@
 hejun19215
 HEJUN@2002
+
+git add "文件名"
+git commit -m "修改备注"
+git push
+
 1.mysql的事务，脏读，不可重复读，幻读的测试
 
 
