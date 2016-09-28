@@ -21,7 +21,7 @@ git push
 6.git命令总结
 
 
-7.spring 学习 IOC/AOP
+7.spring 学习 IOC/AOP  AOP拦截异常/日志
 
 
 8.表连接原理
